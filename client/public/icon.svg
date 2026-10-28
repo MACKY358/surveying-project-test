@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Trompeta Surveying">
+  <rect width="192" height="192" rx="40" fill="#0f3d2e"/>
+  <path d="M96 34 44 74v84h104V74z" fill="none" stroke="#f6f8f9" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M96 118V86m0 0-13 13m13-13 13 13" stroke="#c9a227" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M72 158v-26h48v26" fill="none" stroke="#f6f8f9" stroke-width="8" stroke-linejoin="round"/>
+</svg>
